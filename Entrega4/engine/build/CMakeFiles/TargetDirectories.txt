@@ -1,0 +1,3 @@
+/home/goncalo/Desktop/tpCG/Entrega4/engine/build/CMakeFiles/engine.dir
+/home/goncalo/Desktop/tpCG/Entrega4/engine/build/CMakeFiles/edit_cache.dir
+/home/goncalo/Desktop/tpCG/Entrega4/engine/build/CMakeFiles/rebuild_cache.dir
